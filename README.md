@@ -30,7 +30,7 @@ Skip outdated GitHub lists and basic job boards. We built a **real-time, communi
 
 ### 🧠 What makes it different?
 
-With didtheyghost.me, you can:
+With this, you can:
 
 - ✅ Track your application and see how others fared for the same role  
 - ✅ View when companies usually send replies, reject, or ghost  
