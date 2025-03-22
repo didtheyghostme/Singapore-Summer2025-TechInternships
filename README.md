@@ -15,14 +15,30 @@ Skip outdated GitHub lists and basic job boards. We built a **real-time, communi
 |--------------------|-------------------|-----------------------|------------------------|
 | Updated daily with new **tech internships** | ✅ | ❌ | ✅ |
 | Track company replies (offer / rejected / ghosted) | ✅ | ❌ | ❌ |
-| Share & view interview experiences | ✅ | ❌ | ❌ |
+| Share & view interview experiences (OA, rounds, questions) | ✅ | ❌ | ❌ |
 | Filter by response status, country, role | ✅ | ❌ | ❌ |
 | Verified listings badge | ✅ | ❌ | ❌ |
-| Community Q&A per role | ✅ | ❌ | ❌ |
+| Community Q&A under each job | ✅ | ❌ | ❌ |
+| Shows when companies start/end hiring | ✅ | ❌ | ❌ |
+| Helps you know if you’ve been ghosted | ✅ | ❌ | ❌ |
 | Built for transparency, not just listings | ✅ | ❌ | ❌ |
+
 
 > **Built by job applicants, for job applicants.**  
 > Free. Open-source. No ads.
+
+
+### 🧠 What makes it different?
+
+With didtheyghost.me, you can:
+
+- ✅ Track your application and see how others fared for the same role  
+- ✅ View when companies usually send replies, reject, or ghost  
+- ✅ Explore real user-submitted online assessments and interview rounds  
+- ✅ Ask questions and discuss job postings with other applicants  
+- ✅ Report if a role has closed, and see when companies stop hiring  
+
+It’s more than a job board — it’s a transparent job-hunting companion.
 
 ---
 
@@ -30,11 +46,22 @@ Skip outdated GitHub lists and basic job boards. We built a **real-time, communi
 
 This project continues the great work started in [kxrt’s 2024 internship repo](https://github.com/kxrt/Singapore-Summer2024-TechInternships), but goes further — with a live, transparent platform for internship hunters in Singapore and beyond.
 
+## 🤝 Want to Contribute?
+
+We're open-source and community-powered — and we welcome all kinds of contributions:
+
+- Suggest features or improvements
+- Report bugs or share feedback
+- Share interview experiences or job updates
+- Help verify company or job posting data
+- Contribute to design, dev, or data improvements  
+
+Have questions or ideas? Reach out via [contact](https://didtheyghost.me/contact?utm_source=githubSGSummer2025&utm_medium=contact&utm_campaign=sg-internships-2025)
+
 ---
 
 ## 💻 Main GitHub Repo
 
-Want to contribute or see how it works?  
 🔗 [github repo](https://github.com/didtheyghostme/didtheyghostme)
 
 ---
